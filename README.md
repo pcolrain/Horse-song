@@ -1,2 +1,2 @@
 # Horse-song
-song about horses
+song about horses in the key C major
